@@ -1,2 +1,1 @@
-# dns-server
-A simple dns server implementation
+A simple implementatin of dns server.
